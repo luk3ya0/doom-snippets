@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: attrorg
+# uuid: attrorg
+# key: attrorg
+# --
+#+attr_org: :width $1 :justify $2

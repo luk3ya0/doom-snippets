@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: tikzbabel
+# uuid: tikzbabel
+# key: tikzbabel
+# --
+#+header: :results file graphics :file $1
+#+header: :exports results
+#+begin_src latex
+\begin{tikzpicture}
+$2
+\end{tikzpicture}
+#+end_src

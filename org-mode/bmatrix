@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: bmatrix
+# uuid: bmatrix
+# key: bmatrix
+# --
+$\begin{bmatrix} &  \\\\  & \end{bmatrix}$
